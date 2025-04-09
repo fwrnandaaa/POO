@@ -1,0 +1,15 @@
+/workspaces/POO/Aula02/Teste/bin/Debug/net8.0/Teste
+/workspaces/POO/Aula02/Teste/bin/Debug/net8.0/Teste.deps.json
+/workspaces/POO/Aula02/Teste/bin/Debug/net8.0/Teste.runtimeconfig.json
+/workspaces/POO/Aula02/Teste/bin/Debug/net8.0/Teste.dll
+/workspaces/POO/Aula02/Teste/bin/Debug/net8.0/Teste.pdb
+/workspaces/POO/Aula02/Teste/obj/Debug/net8.0/Teste.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/POO/Aula02/Teste/obj/Debug/net8.0/Teste.AssemblyInfoInputs.cache
+/workspaces/POO/Aula02/Teste/obj/Debug/net8.0/Teste.AssemblyInfo.cs
+/workspaces/POO/Aula02/Teste/obj/Debug/net8.0/Teste.csproj.CoreCompileInputs.cache
+/workspaces/POO/Aula02/Teste/obj/Debug/net8.0/Teste.sourcelink.json
+/workspaces/POO/Aula02/Teste/obj/Debug/net8.0/Teste.dll
+/workspaces/POO/Aula02/Teste/obj/Debug/net8.0/refint/Teste.dll
+/workspaces/POO/Aula02/Teste/obj/Debug/net8.0/Teste.pdb
+/workspaces/POO/Aula02/Teste/obj/Debug/net8.0/Teste.genruntimeconfig.cache
+/workspaces/POO/Aula02/Teste/obj/Debug/net8.0/ref/Teste.dll
