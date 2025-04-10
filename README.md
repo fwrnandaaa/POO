@@ -1,2 +1,2 @@
 # POO
-Repositório destinado para os projetos da matéria Programação Orientada a Objetos
+Repositório destinado aos projetos da matéria Programação Orientada a Objetos
